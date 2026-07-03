@@ -1,0 +1,6 @@
+{
+    "name": "Connectivity Test",
+    "description": "Testing NetworkManager access by Soup during suspend.",
+    "uuid": "connectivity-test@footeware.ca",
+    "shell-version": ["50"]
+}
